@@ -1,5 +1,9 @@
 
 ==================
+
+.. image:: https://badges.gitter.im/assign_gup/Lobby.svg
+   :alt: Join the chat at https://gitter.im/assign_gup/Lobby
+   :target: https://gitter.im/assign_gup/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 README: Assign_GUP
 ==================
 
